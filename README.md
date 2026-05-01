@@ -142,7 +142,6 @@ backend/assets/
 
 3. Use in README:
 
-![Alt Text](./assets/image-name.png)
 ## 💡 Sample API
 
 GET /users  
